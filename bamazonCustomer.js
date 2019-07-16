@@ -4,8 +4,8 @@ var Table = require("cli-table3");
 var db = mysql.createConnection({
   host: "localhost",
   port: 3306,
-  user: "root",
-  password: "Walker!0619",
+  user: "github",
+  password: "github",
   database: "bamazonDB"
 });
 
